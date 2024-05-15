@@ -20,5 +20,10 @@ This design uses linear rods which simplifies sourcing. Hardened steel rods from
 
  - simplified fastener sourcing 
 
-all M3 screws are 8/12/20/40mm socket heads, and all M5 screws are 10/15/20mm button heads. Few extra M4 screws are needed for power supply mount
+All M3 screws are 8/12/20/40mm socket heads, and all M5 screws are 10/15/20mm button heads. Few extra M4 screws are needed for power supply mount
 
+ - Hotend choice
+
+Currently the hotend supports a V6 groove mount and the LDO orbiter v2 hotend. 
+
+A mount for the LDO smart orbiter V3 is in the works.
