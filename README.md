@@ -5,4 +5,7 @@ The "Additive Maunfacturing Unit" is an open source 3D printer project that aims
 
 This is a work in progress project. The 3d printer is not built yet, and parts are not guaranteed to fit together. The first build and klipper config is scheduled for august 2024.
 
+## Design Goals
+10mm linear rods for all axes
+simplified fastener sourcing - all M3 screws are 8/12/20/40mm socket heads, and all M5 screws are 10/15/20mm button heads. Few extra M4 screws for power supply mount
 
