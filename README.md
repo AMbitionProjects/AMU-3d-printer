@@ -20,7 +20,7 @@ This design uses linear rods which simplifies sourcing. Hardened steel rods from
 
  - simplified fastener sourcing 
 
-All M3 screws are 8/12/20/40mm socket heads, and all M5 screws are 10/15/20mm button heads. Few extra M4 screws are needed for power supply mount
+All M3 screws are 8/12/20/40mm socket heads, and all M5 screws are 10/15/20mm button heads. Few extra M4 screws are needed to mount the power supply.
 
  - Hotend choice
 
